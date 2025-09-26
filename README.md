@@ -1,12 +1,14 @@
-*********** REgistration **************
+*********** Registration **************
 
 
 Dependencies :- 
 
+You have to install first these :-
 
-npm install bcrypt
-npm install cors
-npm install dotenv
-npm install express
-npm install jsonwebtoken
-npm install nodemailer
+npm install bcrypt cors dotenv express jsonwebtoken mongoose nodemailer
+
+
+and them command :-
+
+
+npm run dev 
